@@ -1,0 +1,6 @@
+framework module Pods_faiaz_rahman_30024_mid2_faiaz_rahman_30024_mid2UITests {
+  umbrella header "Pods-faiaz_rahman_30024_mid2-faiaz_rahman_30024_mid2UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
